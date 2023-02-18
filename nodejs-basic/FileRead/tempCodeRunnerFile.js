@@ -1,0 +1,1 @@
+C:\javascript-projects\nodejs-basic\FileRead\note.txt
